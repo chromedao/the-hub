@@ -1,0 +1,48 @@
+name: Playtest bug
+description: Something is broken in The Hub (collision, stuck, clip, controls).
+title: "[Bug] "
+labels: ["bug", "feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Play on https://metaverse.chromedao.xyz then tell us what broke.
+  - type: dropdown
+    id: surface
+    attributes:
+      label: Where
+      options:
+        - Pit / dive
+        - Ladder / roof
+        - Windows / vitrines
+        - Plaza / ring / estrade
+        - Avatar / hands
+        - Multiplayer
+        - Holder Gate / wallet
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: What you did
+      placeholder: Climbed the ladder from the side with no rungs, then walked the roof edge.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened
+    validations:
+      required: true
+  - type: input
+    id: discord
+    attributes:
+      label: Discord name (optional)
+      placeholder: droms

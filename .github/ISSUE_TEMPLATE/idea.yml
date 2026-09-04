@@ -1,0 +1,26 @@
+name: Idea
+description: A feature or change you want in The Hub.
+title: "[Idea] "
+labels: ["enhancement", "feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas land in **Later** until we pick them up. Not a promise.
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      placeholder: Let my Chrome NFT be the pawn instead of the C4D figure.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it matters in the Hub
+    validations:
+      required: false
+  - type: input
+    id: discord
+    attributes:
+      label: Discord name (optional)
