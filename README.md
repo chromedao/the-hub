@@ -11,23 +11,23 @@ Talk: [CHROMES DAO Discord](https://discord.gg/3yWKxcwp7Z) (`#general`)
 
 Bugs that block exploration. Filed from holder playtests.
 
-- [Issues labeled `now`](https://github.com/c0loria/the-hub/issues?q=is%3Aissue+is%3Aopen+label%3Anow)
+- [Issues labeled `now`](https://github.com/chromedao/the-hub/issues?q=is%3Aissue+is%3Aopen+label%3Anow)
 
 ## Next
 
 Improvements we want after the Hub is solid to walk.
 
-- [Issues labeled `next`](https://github.com/c0loria/the-hub/issues?q=is%3Aissue+is%3Aopen+label%3Anext)
+- [Issues labeled `next`](https://github.com/chromedao/the-hub/issues?q=is%3Aissue+is%3Aopen+label%3Anext)
 
 ## Later
 
 Ideas. Not a promise, not a date.
 
-- [Issues labeled `later`](https://github.com/c0loria/the-hub/issues?q=is%3Aissue+is%3Aopen+label%3Alater)
+- [Issues labeled `later`](https://github.com/chromedao/the-hub/issues?q=is%3Aissue+is%3Aopen+label%3Alater)
 
 ## How to report
 
-1. Open a [bug](https://github.com/c0loria/the-hub/issues/new?template=bug.yml) or an [idea](https://github.com/c0loria/the-hub/issues/new?template=idea.yml).
+1. Open a [bug](https://github.com/chromedao/the-hub/issues/new?template=bug.yml) or an [idea](https://github.com/chromedao/the-hub/issues/new?template=idea.yml).
 2. Say what you did, what you saw, Discord name if you want credit.
 3. Keep the conversation going on Discord. GitHub is the archive.
 
