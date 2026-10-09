@@ -5,7 +5,7 @@ Public roadmap and playtest feedback for [The Hub](https://metaverse.chromedao.x
 This repo has **no game source**. It is the public board: what is live, what we are fixing, what we are not promising yet.
 
 Play: https://metaverse.chromedao.xyz  
-Talk: [CHROMES DAO Discord](https://discord.gg/7TVqQF4GH) (`#general`)
+Talk: [CHROMES DAO Discord](https://discord.gg/3yWKxcwp7Z) (`#general`)
 
 ## Now
 
